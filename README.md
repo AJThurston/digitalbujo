@@ -2,7 +2,7 @@
 Documentation and templates for my digital bullet journaling method
 
 ## Evernote Template
-<a href="Templates/digitalbujotemplate.enex.zip" download>Download Evernote Template</a>
+<a href="Templates/digitalbujotemplate.enex.zip" download="digitalbujotemplate.enex.zip">Download Evernote Template</a>
 
 ## OneNote Template
 https://github.com/AJThurston/digitalbujo/blob/main/digitalbujotemplate.one
