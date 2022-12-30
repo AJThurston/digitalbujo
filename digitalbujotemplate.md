@@ -16,7 +16,6 @@
 
 - Recruiting white paper
 - Brief for public release
-- Updated Waterfall Chart  
 
 ### Standing Orders
 
