@@ -16,6 +16,7 @@
 
 - Recruiting white paper
 - Brief for public release
+- Updated funnel chart
 
 ### Standing Orders
 
