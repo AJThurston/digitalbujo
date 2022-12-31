@@ -2,22 +2,20 @@
 Documentation and templates for my digital bullet journaling method
 
 ## Evernote Template
-*right click 'Save link as':*  
-<a href="Templates/digitalbujotemplate.enex">Evernote Template</a>
-
-https://github.com/AJThurston/digitalbujo/blob/main/Templates/digitalbujotemplate.enex
+<a href="Templates/digitalbujotemplate.enex">Evernote template download</a>
+In Evernote:
+1. Go to "File" select "Evernote Export Files"
+2. Navigate to the file where you have the template
+3. Answer Yes or No if you want the file synced
 
 ## OneNote Template
-*right click 'Save link as':*  
-https://github.com/AJThurston/digitalbujo/blob/main/Templates/digitalbujotemplate.one
+<a href="Templates/digitalbujotemplate.one">OneNote template download</a>
 
 ## Notion Template
 https://ajthurston.notion.site/23-W01-02JAN-555762898d33462c88ecd0f888418ee5
 
 ## Microsoft Word Doc Template
-*right click 'Save link as':*   
-https://github.com/AJThurston/digitalbujo/blob/main/Templates/digitalbujotemplate.docx
+<a href="Templates/digitalbujotemplate.docx">Microsoft Word Doc template download</a>
 
 ## Markdown Template
-*right click 'Save link as':*   
-https://github.com/AJThurston/digitalbujo/blob/main/Templates/digitalbujotemplate.md
+<a href="Templates/digitalbujotemplate.md">Markdown template download</a>
