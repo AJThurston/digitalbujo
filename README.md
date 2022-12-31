@@ -3,6 +3,8 @@ Documentation and templates for my digital bullet journaling method
 
 ## Evernote Template
 *right click 'Save link as':*  
+<a href="Templates/digitalbujotemplate.enex">Evernote Template</a>
+
 https://github.com/AJThurston/digitalbujo/blob/main/Templates/digitalbujotemplate.enex
 
 ## OneNote Template
