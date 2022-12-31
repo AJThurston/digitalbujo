@@ -2,8 +2,8 @@
 Documentation and templates for my digital bullet journaling method
 
 ## Evernote Template
-<a href="Templates/digitalbujotemplate.enex">Evernote template download</a>
-In Evernote:
+<a href="Templates/digitalbujotemplate.enex">Evernote template download</a>  
+In Evernote:  
 1. Go to "File" select "Evernote Export Files"
 2. Navigate to the file where you have the template
 3. Answer Yes or No if you want the file synced
