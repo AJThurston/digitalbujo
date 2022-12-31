@@ -12,7 +12,7 @@ In Evernote:
 <a href="Templates/digitalbujotemplate.one">OneNote template download</a>
 
 ## Notion Template
-https://ajthurston.notion.site/23-W01-02JAN-555762898d33462c88ecd0f888418ee5
+[Notion template link](https://ajthurston.notion.site/23-W01-02JAN-555762898d33462c88ecd0f888418ee5)
 
 ## Microsoft Word Doc Template
 <a href="Templates/digitalbujotemplate.docx">Microsoft Word Doc template download</a>
